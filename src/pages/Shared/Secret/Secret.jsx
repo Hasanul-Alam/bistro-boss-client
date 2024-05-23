@@ -2,7 +2,7 @@
 
 const Secret = () => {
     return (
-        <div>
+        <div className="py-20">
             <h2>THis is secret page.</h2>
         </div>
     );
